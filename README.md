@@ -64,7 +64,6 @@
  #### 🤖 Generative AI
 - <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" width="30" height="30"> **Hugging Face**
 - <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ollama.png" alt="Ollama" width="30" height="30"> **Ollama**
-- <img src="https://styles.redditmedia.com/t5_aqipas/styles/communityIcon_86tg5vvk98lc1.png" alt="unsloth" width="30" height="30"> **Unsloth**
 - <img src="https://cdn.prod.website-files.com/6645c0129428882861d078b8/66603a39bd44aeb85269ceea_655df7e9805dd2bd768367ef_llamaindex-removebg-preview.png" alt="Llama Index" width="30" height="30"> **Llama Index**
 
  #### 🕸 Web Frameworks
@@ -76,7 +75,6 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"> **Docker**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"> **AWS**
 - <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" height="30"> **Google Cloud Platform**
-- <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="30" height="30"> **Heroku**
 
 ### Tools & Technologies:
 - <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="30" height="30"> **Github**
@@ -84,8 +82,9 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="30" height="30"> **VS Code**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="30" height="30"> **Jupyter Notebooks**
 - <img src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" alt="Google Colab" width="30" height="30"> **Google Colab**
-- <img src="https://www.luxonis.com/assets/marketing/brand/luxonis_logo_symbol.png" alt="Luxonis" width="30" height="30"> **Luxonis AI Cameras**
+- <img src="https://www.luxonis.com/assets/marketing/brand/luxonis_logo_symbol.png" alt="Luxonis" width="30" height="30"> ** AI Cameras**
 - <img src="https://cdn.iconscout.com/icon/free/png-256/free-nvidia-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945060.png" alt="Nvidia" width="30" height="30"> **Nvidia edge Devices**
+- - <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor" width="30" height="30"> **Cursor AI Editor**
 
 ---
 
