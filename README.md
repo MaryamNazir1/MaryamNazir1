@@ -40,7 +40,7 @@
 
 ## 📬 How to Reach Me
 
-- 📧 **Email**: maryamnazir3011@gmail.com
+- 📧 **Email**: nazirmaryam452@gmail.com
 - 💼 **GitHub**: https://github.com/MaryamNazir1  
 - 🔗 **LinkedIn**: www.linkedin.com/in/maryam-nazir1
 
@@ -84,7 +84,7 @@
 - <img src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" alt="Google Colab" width="30" height="30"> **Google Colab**
 - <img src="https://www.luxonis.com/assets/marketing/brand/luxonis_logo_symbol.png" alt="Luxonis" width="30" height="30"> ** AI Cameras**
 - <img src="https://cdn.iconscout.com/icon/free/png-256/free-nvidia-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945060.png" alt="Nvidia" width="30" height="30"> **Nvidia edge Devices**
-- - <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor" width="30" height="30"> **Cursor AI Editor**
+- <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor" width="30" height="30"> **Cursor AI Editor**
 
 ---
 
