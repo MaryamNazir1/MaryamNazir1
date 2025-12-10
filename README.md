@@ -22,12 +22,12 @@ real-time video analytics, and multimodal intelligence.
 
 ## Skills
 
-**Languages:** Python, C++, C\
-**Frameworks:** PyTorch, TensorFlow, YOLO, OpenCV\
-**Backend:** FastAPI, Flask\
-**Databases:** MongoDB\
-**DevOps:** Docker, AWS, GCP\
-**Tools:** Git, VS Code, Colab, Jupyter
+-   **Languages:** Python, C++, C\
+-   **Frameworks:** PyTorch, TensorFlow, YOLO, OpenCV\
+-   **Backend:** FastAPI, Flask\
+-   **Databases:** MongoDB\
+-   **DevOps:** Docker, AWS, GCP\
+-   **Tools:** Git, VS Code, Colab, Jupyter
 
 ------------------------------------------------------------------------
 
