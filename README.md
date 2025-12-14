@@ -34,5 +34,5 @@ real-time video analytics, and multimodal intelligence.
 ## Contact
 
 -   Email: **nazirmaryam452@gmail.com**
--   GitHub: **[[github.com](https://github.com/)/MaryamNazir1](https://github.com/MaryamNazir1)**
+-   GitHub: **https://github.com/MaryamNazir1**
 -   LinkedIn: **www.linkedin.com/in/maryam-nazir1**
