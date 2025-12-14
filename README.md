@@ -1,6 +1,6 @@
 # Hi, I'm **Maryam Nazir**
 
-**Computer Vision Engineer \| Machine Learning Specialist \| AI
+**Computer Vision Engineer | Machine Learning Specialist | AI
 Developer**
 I design and build end-to-end AI systems focused on computer vision,
 real-time video analytics, and multimodal intelligence.
@@ -13,8 +13,8 @@ real-time video analytics, and multimodal intelligence.
 ## Areas of Work
 
 -   Real-time CV pipelines: **YOLO, SIFT, OCR, tracking**
--   Intelligent parking & monitoring systems\
--   FastAPI-based microservices & cloud deployments\
+-   Intelligent parking & monitoring systems
+-   FastAPI-based microservices & cloud deployments
 -   LLM-powered chatbots and embedding-based search
 
 ------------------------------------------------------------------------
@@ -22,13 +22,12 @@ real-time video analytics, and multimodal intelligence.
 
 ## Skills
 
--   **Languages:** Python, C++, C\
--   **Frameworks:** PyTorch, TensorFlow, YOLO, OpenCV\
--   **Backend:** FastAPI, Flask\
--   **Databases:** MongoDB\
--   **DevOps:** Docker, AWS, GCP\
--   **Tools:** Git, VS Code, Colab, Jupyter
-
+-   **Languages:** Python, C++, C
+-   **Frameworks:** PyTorch, TensorFlow, YOLO, OpenCV
+-   **Backend:** FastAPI, Flask
+-   **Databases:** MongoDB
+-   **DevOps:** Docker, AWS, GCP\\
+-   **Tools:** Git, VS Code, Colab, Jupyter, Cursor, n8n
 ------------------------------------------------------------------------
 
 ## Contact
